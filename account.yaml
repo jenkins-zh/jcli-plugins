@@ -2,3 +2,4 @@ use: account
 short: Allow you to setup a set of config item from git
 long: Allow you to setup a set of config item from git
 main: jcli-account-plugin
+version: v0.0.1
