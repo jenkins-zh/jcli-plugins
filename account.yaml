@@ -3,3 +3,4 @@ short: Allow you to setup a set of config item from git
 long: Allow you to setup a set of config item from git
 main: jcli-account-plugin
 version: v0.0.1
+downloadLink: https://github.com/jenkins-zh/jcli-plugins/releases/download/v0.0.1/jcli-account-plugin
