@@ -1,4 +1,4 @@
-se: ishell
+use: ishell
 short: Manage your Jenkins job as interactive way
 long: Manage your Jenkins job as interactive way
 main: jcli-ishell-plugin
