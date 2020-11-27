@@ -1,0 +1,5 @@
+use: casc
+short: Jenkins Configuration as Code
+long: Jenkins Configuration as Code
+main: jcli-casc-plugin
+version: v0.0.2
