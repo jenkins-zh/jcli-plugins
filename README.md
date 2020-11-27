@@ -1,5 +1,7 @@
-# jcli-plugins
-Collection of jcli plugins
+[![Contributors](https://img.shields.io/github/contributors/jenkins-zh/jcli-plugins.svg)](https://github.com/jenkins-zh/jcli-plugins/graphs/contributors)
+[![HitCount](http://hits.dwyl.com/jenkins-zh/jcli-plugins.svg)](http://hits.dwyl.com/jenkins-zh/jcli-plugins)
+
+# Collection of jcli plugins
 
 | Name | Description | Release | Downloads |
 |---|---|---|---|
