@@ -1,0 +1,5 @@
+use: ks
+short: This is a KubeSphere plugin for Jenkins CLI
+long: This is a KubeSphere plugin for Jenkins CLI
+main: jcli-ks-plugin
+version: v0.0.1
