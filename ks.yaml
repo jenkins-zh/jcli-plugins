@@ -3,3 +3,4 @@ short: This is a KubeSphere plugin for Jenkins CLI
 long: This is a KubeSphere plugin for Jenkins CLI
 main: jcli-ks-plugin
 version: v0.0.1
+downloadLink: https://github.com/LinuxSuRen/jcli-ks-plugin/releases/download/v0.0.1/jcli-ks-plugin-linux-amd64.tar.gz
